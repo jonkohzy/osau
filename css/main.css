@@ -2033,7 +2033,7 @@ html.no-csstransitions .home-content__main {
   background-color: #fff;
   overflow: hidden;
   position: relative;
-  background-image: url("images/presence.jpeg");
+  background-image: url("../images/presence.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
